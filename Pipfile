@@ -13,3 +13,4 @@ python_version = "3.9"
 
 [scripts]
 report = 'python3 report.py'
+password = 'python3 password.py'
