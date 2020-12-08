@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 click = "*"
 pytest = "*"
+networkx = "*"
 
 [dev-packages]
 
@@ -19,3 +20,4 @@ toboggan = 'python3 toboggan.py'
 passport = 'python3 passport.py'
 boarding = 'python3 boarding.py'
 customs = 'python3 customs.py'
+bags = 'python3 bags.py'
